@@ -1,7 +1,6 @@
-streamlit==1.32.0
-sentence-transformers==2.2.2
-numpy==1.24.4
-torch==2.0.1
-transformers==4.36.2
-huggingface_hub==0.14.1
+streamlit
+sentence-transformers
 faiss-cpu
+transformers
+torch
+numpy
